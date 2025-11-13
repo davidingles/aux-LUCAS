@@ -5,7 +5,7 @@ import { Stats, OrbitControls, Environment, useGLTF, Clone, Html, ContactShadows
 import { useControls } from 'leva';
 
 const Models = [
-  { title: 'JUV', url: './JUV.glb', miEscala: 1.2, miPosicion: 3 },
+  { title: 'luc', url: './luc.glb', miEscala: 1.2, miPosicion: 3 },
   // { title: 'lonchemur1', url: './lonchemur1.glb', miEscala: 1.1, miPosicion: 4 },
   // { title: '3KG', url: './3KG.glb', miEscala: 1.1, miPosicion: 4 },
   // { title: '4KG', url: './4KG.glb', miEscala: 1.1, miPosicion: 4 },
